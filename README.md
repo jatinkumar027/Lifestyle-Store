@@ -13,7 +13,9 @@ A basic e-commerce store with necessary functionalities to give it a good hand.
 
 **Server:**  PHP, MySQL
 
-  
+## Screenshot
+![Screenshot](https://github.com/jatinkumar027/Lifestyle-Store/blob/main/Screenshot.png?raw=true)
+
 ## Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
